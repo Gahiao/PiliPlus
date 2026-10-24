@@ -15,7 +15,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/bggRGjQaUbCoE/PiliPlus/total) 
 </div>
     <p>使用Flutter开发的BiliBili第三方客户端</p>
-    <p>本仓库fork自[PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus/)仅为自用</p>
     
 <img src="assets/screenshots/510shots_so.png" width="32%" alt="home" />
 <img src="assets/screenshots/174shots_so.png" width="32%" alt="home" />
@@ -27,7 +26,7 @@
 
 
 <br/>
-
+本仓库fork自[PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus/)仅为自用
 ## 适配平台
 
 - [x] Android
